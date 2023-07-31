@@ -67,7 +67,7 @@
   <project path="system/vold" name="aosp_platform_system_vold" remote="imx-android" revision="refs/tags/automotive-12.0.0_1.1.0" />
   <project path="system/hardware/interfaces" name="aosp_platform_system_hardware_interfaces" remote="imx-android" revision="refs/tags/automotive-12.0.0_1.1.0" />
   <project path="packages/apps/SoundRecorder" name="aosp_platform_packages_apps_SoundRecorder" remote="imx-android" revision="refs/tags/automotive-12.0.0_1.1.0" />
-  <project path="packages/services/Car" name="aosp_platform_packages_services_Car" remote="imx-android" revision="refs/tags/automotive-12.0.0_1.1.0" />
+  <project path="packages/services/Car" name="aosp_platform_packages_services_Car" remote="imx-android" revision="refs/tags/automotive-12.0.0_1.1.0_gh" />
   <project path="system/sepolicy" name="aosp_platform_system_sepolicy" remote="imx-android" revision="refs/tags/automotive-12.0.0_1.1.0" />
   <project path="packages/modules/adb" name="aosp_platform_packages_modules_adb" remote="imx-android" revision="refs/tags/automotive-12.0.0_1.1.0" />
   <project path="packages/apps/Car/SystemUI" name="aosp_platform_packages_apps_Car_SystemUI" remote="imx-android" revision="refs/tags/automotive-12.0.0_1.1.0" />
